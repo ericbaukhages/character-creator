@@ -6,3 +6,10 @@
   text-align: center;
 }
 
+.footer a {
+  color: inherit;
+}
+
+.footer a:hover {
+  font-weight: bold;
+}
