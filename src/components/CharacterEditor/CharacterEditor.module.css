@@ -31,6 +31,8 @@
   right: 0;
   width: 50%;
   min-height: 500px;
+  text-align: center;
+  height: 100%;
 }
 
 .controlColumn {
