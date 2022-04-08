@@ -1,11 +1,13 @@
-import React from 'react';
+import React from "react";
 
-import CharacterEditor from './components/CharacterEditor';
-import Footer from './components/Footer';
+import CharacterEditor from "./components/CharacterEditor";
+import Footer from "./components/Footer";
+import BackgroundDecoration from "./components/BackgroundDecoration";
 
 function App() {
   return (
     <>
+      <BackgroundDecoration />
       <CharacterEditor />
       <Footer />
     </>
